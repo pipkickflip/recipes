@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Male Chauvinist Chili"
 image: male-chauvinist-chili.jpg
-imagecredit: 
+imagecredit: https://theculinarycellar.com/sphere-magazine-october-1972/male-chauvinist-chili-1/
 tags: main
 
 yield: 6 to 8 servings (about 3 1/2 quarts)
