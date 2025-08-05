@@ -11,7 +11,7 @@ preptime: 10 minutes
 cooktime: 60 minutes
 
 ingredients:
-- 1 cup of mashed bananas
+- 1 cup of mashed bananas (or 3 bananas)
 - 1/2 cup flour
 - 1 tsp baking soda
 - 1/2 tsp salt
@@ -19,6 +19,7 @@ ingredients:
 - 1 cup sugar
 - 2 eggs
 - 1 tsp vanilla
+- 3/4 cup sour cream (or yogurt)
 
 directions:
 - Mix the butter(softened) and sugar together.
